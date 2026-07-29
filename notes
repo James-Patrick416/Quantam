@@ -1,3 +1,4 @@
   Q.ipynb
 - i created a tiny mathematical "quantam object" and watched how it changes over time.instead of moving through space it rotates through an invinsible math world called the complex plane..
 - the graph shows the hidden rhythm that gives quantam systems their strange behaviour..its more like watching the heartbeat of a very simple quantam state 
+- next step is simulating a single qubit witha Hadamard Gate using Qiskit
