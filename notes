@@ -2,3 +2,10 @@
 - i created a tiny mathematical "quantam object" and watched how it changes over time.instead of moving through space it rotates through an invinsible math world called the complex plane..
 - the graph shows the hidden rhythm that gives quantam systems their strange behaviour..its more like watching the heartbeat of a very simple quantam state 
 - next step is simulating a single qubit witha Hadamard Gate using Qiskit
+
+7/30/2026
+-explaianing todays commmit what happening under the hood
+1.INITIAL STATE - all qubits in qiskit start initialised in the ground state 0
+2.HADAMARD GATE - creates a 50/50 quantam superposition.b4 measurement the qubit exists simultaneously in a state combining 0 and 1
+3.MEASUREMENT COLLASPE - measuring the qubit forces its quantam state to collasi into a classical bit value 0 or 1 
+4.HISTOGRAM - its a 50/50 probability running 1000 shots will yield roughly ~500 counts or 0 and ~500 counts for 1
