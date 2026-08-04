@@ -31,3 +31,7 @@ Bell state created by:
 1. Hadamard (H) on qubit 0 → superposition.
 2. CNOT with control=qubit 0, target=qubit 1 → entanglement.
 Result: (|00⟩ + |11⟩) / √2 (maximally entangled).
+
+Measurement forces a quantum system to choose one classical state.
+For Bell state, measurement gives either |00⟩ or |11⟩ with 50% probability each.
+No |01⟩ or |10⟩ observed—confirms entanglement.
