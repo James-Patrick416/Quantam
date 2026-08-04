@@ -35,3 +35,7 @@ Result: (|00⟩ + |11⟩) / √2 (maximally entangled).
 Measurement forces a quantum system to choose one classical state.
 For Bell state, measurement gives either |00⟩ or |11⟩ with 50% probability each.
 No |01⟩ or |10⟩ observed—confirms entanglement.
+
+Uses Bell states to transfer an unknown qubit state between two parties.
+Requires: entanglement, classical communication, and local operations.
+Does not copy the state—it moves it (no-cloning theorem).
