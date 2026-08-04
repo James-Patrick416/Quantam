@@ -17,3 +17,8 @@
  it involves 3 steps : entanglement, measurement,  reconstruction
 - so now what is a bellstate -> it is a maximally entangled quantam state of 2 bits..its important for (foundation for quantam teleportation, superdense coding, quantam cryptoraphy,
 -what im building today is a bell state using a hadamard gate and CNOT gate then measure the cubits to verify entanglement then visualise results
+
+4/8/2026
+A qubit can exist in a linear combination of |0⟩ and |1⟩.
+State: |ψ⟩ = α|0⟩ + β|1⟩, where |α|² + |β|² = 1.
+Measurement collapses the state to |0⟩ or |1⟩ with probability |α|² or |β|².
