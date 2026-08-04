@@ -22,3 +22,7 @@
 A qubit can exist in a linear combination of |0⟩ and |1⟩.
 State: |ψ⟩ = α|0⟩ + β|1⟩, where |α|² + |β|² = 1.
 Measurement collapses the state to |0⟩ or |1⟩ with probability |α|² or |β|².
+
+Two or more qubits become correlated such that the state of one cannot be described independently.
+Bell state: |Φ⁺⟩ = (|00⟩ + |11⟩) / √2.
+Measuring one qubit instantly determines the other—non-local correlation.
