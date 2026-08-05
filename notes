@@ -55,3 +55,7 @@ Quantum offers:
 - Exponential state space.
 - Parallelism via superposition.
 - Correlation via entanglement.
+
+Near-term QML uses hybrid quantum-classical models.
+Quantum circuit + classical optimizer (like gradient descent).
+Example: Variational Quantum Eigensolver (VQE), Quantum Neural Networks.
