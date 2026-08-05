@@ -49,3 +49,9 @@ Quantum Machine Learning = using quantum algorithms to enhance classical ML.
 Two approaches:
 1. Speed up classical ML (quantum linear algebra).
 2. Learn quantum data (quantum chemistry, physics).
+
+Classical ML hits limits: energy, data, compute.
+Quantum offers:
+- Exponential state space.
+- Parallelism via superposition.
+- Correlation via entanglement.
