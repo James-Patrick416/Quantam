@@ -59,3 +59,7 @@ Quantum offers:
 Near-term QML uses hybrid quantum-classical models.
 Quantum circuit + classical optimizer (like gradient descent).
 Example: Variational Quantum Eigensolver (VQE), Quantum Neural Networks.
+
+Also called "ansatz."
+Trainable quantum gates with parameters (angles).
+Optimize parameters to minimize cost—similar to neural networks.
