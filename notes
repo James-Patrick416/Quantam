@@ -67,3 +67,7 @@ Optimize parameters to minimize cost—similar to neural networks.
 Quantum computers can compute kernels (similarity between data) exponentially faster.
 Quantum Kernel Methods = classical SVM but with quantum-calculated kernel.
 Promising for small, noisy datasets.
+
+The "vanishing gradient" problem of quantum ML.
+As qubits increase, gradients become exponentially small.
+Hard to train—active research area.
