@@ -43,3 +43,9 @@ Does not copy the state—it moves it (no-cloning theorem).
 You cannot create an identical copy of an arbitrary unknown quantum state.
 If you try, the original state is altered.
 This is the foundation of quantum cryptography and security.
+
+5/8/2026
+Quantum Machine Learning = using quantum algorithms to enhance classical ML.
+Two approaches:
+1. Speed up classical ML (quantum linear algebra).
+2. Learn quantum data (quantum chemistry, physics).
