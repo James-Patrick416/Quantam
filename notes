@@ -71,3 +71,8 @@ Promising for small, noisy datasets.
 The "vanishing gradient" problem of quantum ML.
 As qubits increase, gradients become exponentially small.
 Hard to train—active research area.
+
+8/13/2026
+Probability amplitudes can add constructively or destructively.
+This is what gives quantum algorithms their power — you amplify correct paths and cancel wrong ones.
+Behind Grover's search, Shor's factoring, and all speedups.
