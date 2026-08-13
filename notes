@@ -85,3 +85,7 @@ Quantum information theory = generalization of Shannon entropy.
 A practical metric for quantum computer capability.
 Depends on: qubits, gate errors, connectivity, coherence time.
 Not just "number of qubits" — measures the *effective* computational power.
+
+Loss of quantum behavior due to interaction with environment.
+Causes qubits to "collapse" into classical states.
+Main obstacle to scaling quantum computers — you fight it with error correction, cooling, and isolation.
