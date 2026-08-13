@@ -76,3 +76,8 @@ Hard to train—active research area.
 Probability amplitudes can add constructively or destructively.
 This is what gives quantum algorithms their power — you amplify correct paths and cancel wrong ones.
 Behind Grover's search, Shor's factoring, and all speedups.
+
+Measures the "mixedness" of a quantum state.
+Pure state (e.g., Bell) = entropy 0.
+Mixed state (classical uncertainty) = entropy > 0.
+Quantum information theory = generalization of Shannon entropy.
