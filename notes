@@ -93,3 +93,7 @@ Main obstacle to scaling quantum computers — you fight it with error correctio
 Encodes one logical qubit into many physical qubits.
 Detects and corrects errors without measuring the quantum state directly (otherwise you'd collapse it).
 Surface codes, Shor codes, Steane codes — all trade qubits for reliability.
+
+The point where a quantum computer can solve a problem no classical computer can in feasible time.
+Google claimed it in 2019 with 53 qubits (Sycamore).
+Critics: problem was contrived — but milestone nonetheless.
