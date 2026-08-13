@@ -81,3 +81,7 @@ Measures the "mixedness" of a quantum state.
 Pure state (e.g., Bell) = entropy 0.
 Mixed state (classical uncertainty) = entropy > 0.
 Quantum information theory = generalization of Shannon entropy.
+
+A practical metric for quantum computer capability.
+Depends on: qubits, gate errors, connectivity, coherence time.
+Not just "number of qubits" — measures the *effective* computational power.
