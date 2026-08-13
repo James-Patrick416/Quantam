@@ -89,3 +89,7 @@ Not just "number of qubits" — measures the *effective* computational power.
 Loss of quantum behavior due to interaction with environment.
 Causes qubits to "collapse" into classical states.
 Main obstacle to scaling quantum computers — you fight it with error correction, cooling, and isolation.
+
+Encodes one logical qubit into many physical qubits.
+Detects and corrects errors without measuring the quantum state directly (otherwise you'd collapse it).
+Surface codes, Shor codes, Steane codes — all trade qubits for reliability.
